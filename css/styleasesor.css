@@ -19,15 +19,15 @@
     background:#e2313d;
 }
 .logo h1 {
-    margin: 0.5em 0;
+    margin: 1em 0;
 }
 
 .navbar-nav {
-    float: right;
+    float: left;
 }
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     border: none;
-    background:	#4682B4 ;
+    background:	#008080 ;
 }
 .navbar-default {
     border: none;
