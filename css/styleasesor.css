@@ -2,6 +2,7 @@
 .logo  {
     margin: 0.5em 0;
     padding:6px;
+    background: #7FB3D5;
 }
 
 .navbar-brand {
@@ -20,6 +21,7 @@
 }
 .logo h1 {
     margin: 1em 0;
+    background: #7FB3D5;
 }
 
 .navbar-nav {
@@ -27,7 +29,7 @@
 }
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     border: none;
-    background:	#008080 ;
+    background:	 #7FB3D5;
 }
 .navbar-default {
     border: none;
@@ -47,7 +49,7 @@
     letter-spacing: 1px;
 }
 .navbar {
-    margin-bottom: 0;
+    margin-bottom: 5;
 }
 .header-nav .nav > li > a {
     padding: 47px 20px;
